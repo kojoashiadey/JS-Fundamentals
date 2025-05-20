@@ -1,7 +1,3 @@
-Here’s a short summary based on your outline:
-
----
-
 ### **JavaScript Programming Overview**
 
 **Why JavaScript is Amazing**
@@ -61,7 +57,3 @@ Objects store key-value pairs. You can access or modify values using dot (`obj.k
 
 **Importing a File**
 Use `import` statements (ES6 modules) to bring in code from other files, e.g., `import myFunc from './file.js';`. In Node.js, you can also use `require`.
-
----
-
-Let me know if you’d like this turned into a PDF or study sheet.
