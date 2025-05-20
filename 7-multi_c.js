@@ -3,9 +3,9 @@ const x = Number(process.argv[2]);
 if (!Number.isInteger(x) || x <= 0) {
   console.log("Missing number of occurrences");
 } else {
-  let output = "";
-  for (let i = 0; i < x; i++) {
-    output += "C is fun\n";
+  let count = 0;
+  while (count < x) {
+    console.log("C is fun");
+    count++;
   }
-  console.log(output.trim());
 }
